@@ -1,0 +1,10 @@
+/* You can put Tailwind directives here if you use Tailwind */
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+/* Or just some basic styles for now */
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
